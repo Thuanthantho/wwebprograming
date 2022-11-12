@@ -1,0 +1,166 @@
+.aboutus{
+    position: absolute;
+    width: 475px;
+    height: 34px;
+    left: 73px;
+    top: 177px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+}
+
+.line{
+    position: absolute;
+    width: 1300px;
+    height: 0px;
+    top: 120px;
+    border: 2px solid #000000;
+}
+
+.title1{
+    position: absolute;
+    width: 280px;
+    height: 42px;
+    left: 73px;
+    top: 330px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+
+.concept1{
+    position: absolute;
+    width: 1222px;
+    height: 106px;
+    left: 73px;
+    top: 380px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+
+.title2{
+    position: absolute;
+    width: 280px;
+    height: 42px;
+    left: 73px;
+    top: 450px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+
+.concept2{
+    position: absolute;
+    width: 1222px;
+    height: 106px;
+    left: 73px;
+    top: 500px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+.footers {
+    background-color: #2d2a30;
+    box-sizing: border-box;
+    width: 100%;
+    text-align: left;
+    font: bold 16px sans-serif;
+    padding: 50px 50px 60px 50px;
+    margin-top: 80px;
+}
+
+.footers .footer-left, .footers .footer-center, .footers .footer-right {
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* Footer left */
+
+.footers .footer-left {
+    width: 40%;
+}
+
+.footers h3 {
+    color: #ffffff;
+    font: normal 36px 'Cookie', cursive;
+    margin: 0;
+}
+
+
+.footers h3 span {
+    color: #0473FF;
+}
+
+/* Footer links */
+
+.footers .footer-links {
+    color: #ffffff;
+    margin: 20px 0 12px;
+}
+
+.footers .footer-links a {
+    display: inline-block;
+    line-height: 1.8;
+    text-decoration: none;
+    color: inherit;
+}
+
+.footers .footer-company-name {
+    color: #8f9296;
+    font-size: 14px;
+    font-weight: normal;
+    margin: 0;
+}
+
+
+/* Footer Right */
+
+.footers .footer-right {
+    width: 40%;
+    float: right;
+}
+
+.footers .footer-company-about {
+    line-height: 20px;
+    color: #92999f;
+    font-size: 13px;
+    margin: 0;
+}
+
+.footers .footer-company-about span {
+    display: block;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+
+.footer-links a:hover {
+    color: #3F71EA;
+}
